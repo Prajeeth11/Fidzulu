@@ -1,5 +1,3 @@
-[11:29] S Prasad, Srinidhi
-
 FROM node:18-alpine
 
 WORKDIR /app
