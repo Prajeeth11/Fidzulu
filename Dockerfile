@@ -14,12 +14,12 @@ RUN npm install
 
  
 
-ENV PORT=3021
+ENV PORT=3022
 
  
 
 COPY . .
 
-EXPOSE 3021
+EXPOSE 3022
 
 CMD [ "npm", "start" ]
